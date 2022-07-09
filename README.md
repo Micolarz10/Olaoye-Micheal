@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Micolarz10
+- 👋 Hi, I’m Micheal Ademola
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
